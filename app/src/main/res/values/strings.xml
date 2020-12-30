@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ApplexCamera</string>
+
+    <string name="image_directory_name">QrImages</string>
+    <string name="roi_image_path">roi_image_path</string>
+    <string name="cropped_image_path">cropped_image_path</string>
+    <string name="main_image_path">main_image_path</string>
+    <string name="machine_id">machine_id</string>
+    <string name="keep_camera_in_front_of_machine">મશીન સામે ક cameraમેરો મૂકો</string>
+    <string name="keep_machine_display_in_the_box">બોક્સ માં મશીન ડિસ્પ્લે રાખો</string>
+</resources>
