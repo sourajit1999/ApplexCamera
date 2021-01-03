@@ -22,4 +22,10 @@
 
         <item name="android:windowTranslucentStatus">true</item>
     </style>
+
+    <style name="camera_layout" parent="AppTheme">
+        <item name="android:statusBarColor" tools:ignore="NewApi">#212121</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+    </style>
+
 </resources>

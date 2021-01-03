@@ -17,24 +17,6 @@
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
-<!--        <ImageView-->
-<!--            android:id="@+id/box_main"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="match_parent"-->
-<!--            android:layout_gravity="center"-->
-<!--            android:layout_margin="24dp"-->
-<!--            android:src="@drawable/capture_area" />-->
-
-<!--        <ImageView-->
-<!--            android:id="@+id/box_machine"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="match_parent"-->
-<!--            android:layout_gravity="center"-->
-<!--            android:layout_margin="24dp"-->
-<!--            android:alpha="0.4"-->
-<!--            android:src="@mipmap/machine1" />-->
-
-
     </FrameLayout>
 
 
