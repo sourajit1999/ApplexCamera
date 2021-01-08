@@ -26,10 +26,6 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.applex.camera.MainActivity">
-
-        </activity>
-
         <service android:name="com.applex.camera.UploadImageService" />
         <service android:name="com.applex.camera.UploadDataService" />
 
